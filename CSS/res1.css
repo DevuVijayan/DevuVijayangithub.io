@@ -1,0 +1,241 @@
+.t1
+{
+	width: 80%;
+ margin-top: 80px;
+padding: 10px;
+ 
+}
+.devu
+{
+	font-size: 30px;
+color:#EAC7C7;
+}
+.devu:hover
+{
+	color :#F8EDE3;
+	font-size: 35px;
+}
+.mail
+{
+	font-size: 25px;
+	color:#FFE1E1;
+}
+th
+{
+	color: #f0e9a7;
+}
+nav
+{
+	margin-top: 20px;
+}
+.t2
+{
+	width: 55%;
+}
+.t2:hover
+{
+	color :teal;
+	font-size: 20px;
+}
+.l1
+{
+	text-decoration: none;
+	font-size: 25px;
+	color: #FB2576;
+}
+.l1:hover
+{
+	color :teal;
+	font-size: 20px;
+}
+.header{
+	border:20px;
+	border-radius: 50px; 
+	text-align: center;
+	width: 70%;
+	height:50%;
+	border:2px solid red;
+	margin: center;
+	position: relative;
+	margin: 20px;
+  	top: 10%;
+  	left: 10%;
+	background-color: #F8EDE3;
+ 	display: inline-block;
+}
+img
+{
+	width: 125px;
+	height:142px;
+}
+.box2
+{
+	display: flex;
+	justify-content: space-around;
+	border-radius: 5px;
+	/*width:70%;*/
+	height: 500%;
+	border: 2px solid red;
+
+
+}
+.box
+{
+width: 40%;
+font-size: 15px;
+padding: 10px;
+}
+.box:hover
+{
+	color :teal;
+	font-size: 20px;
+}
+span
+{
+	font-size: 50px;
+}
+.vision
+{
+	font-size: 25px;
+}
+select
+{
+	font-size: 25px;
+	width: 400px;
+} 
+.skill
+{
+	display: flex;
+	justify-content: space-around;
+	border-radius: 5px;
+	background-color: #F8EDE3;
+	border: 2px solid red;
+	width: 70%;
+	margin: 0 auto;
+  	top: 10%;
+ 	 float: center;
+ 	 margin-left: 11%;
+ }
+ #file
+ {
+width: 150px;
+height: 80px;
+color: cyan;
+font-size: 51%;
+display: flex;
+ }
+.progress
+{
+	border: 2px solid red;
+	display: flex;
+	justify-content: space-evenly;
+	width: 70%;
+	text-align: center;
+	 margin-left: 11%;
+	 margin-top: 1%;
+	 background-color: #F8EDE3;
+}
+.progress:hover
+{
+	color :teal;
+	font-size: 20px;
+}
+body
+{
+	background-image:url(../Image/rs6.jpg);
+	background-size: 100% 100%;
+}
+	
+  
+.in
+{
+	font-size: 2rem;
+}
+.me
+{
+	  width : 70%;
+	  height: 80%;
+	  background-color: #F8EDE3;
+	  margin-left: 11%;
+	  font-size: 20px;
+	  margin-top: 5%;
+	  border:2px solid red; 
+
+
+
+
+
+}
+.me:hover
+{
+	color :teal;
+	font-size: 20px;
+}
+.a{
+	color: black;
+	float:right;
+	font-size: 2rem;
+}
+	 
+.sel
+{
+	background-color:  #F8EDE3;
+
+}
+.sel:hover
+{
+	color :teal;
+	font-size: 20px;
+}
+.Contacts
+{
+/*	border-radius: 45%;*/
+	border: 2px solid red;
+	margin-left:11;
+	width: 70%;
+	height: 80%;
+	margin-left: 11%;
+	margin-top: 5%;
+	background-color: #F8EDE3;
+}
+.Contacts:hover
+{
+	color :teal;
+	font-size: 20px;
+}
+
+.bottom td
+{
+border-bottom: 0.5px solid red;
+margin: 0px;
+padding: 0px;
+
+}
+.Qualifications
+{
+	border: 2px solid red;
+	margin-left:11;
+	width: 70%;
+	height: 80%;
+	margin-left: 11%;
+	margin-top: 5%;
+	background-color: #F8EDE3;
+
+}
+.Qualifications:hover
+{
+	color :teal;
+	font-size: 20px;
+}
+.q
+{
+	width: 70%;
+	background-color: #F8EDE3;
+	/*border: 2px solid red;
+}*/
+.q:hover
+{
+	color :teal;
+	font-size: 20px;
+}
+
